@@ -1,0 +1,10 @@
+nmap
+psutil
+scapy
+pandas
+requests
+volatility3
+
+--After creating this file, run:
+
+pip install -r requirements.txt
